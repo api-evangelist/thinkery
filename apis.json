@@ -1,0 +1,56 @@
+{
+    "name": "thinkery",
+    "description": "Thinkery is a fast and lightweight tool for storing notes, bookmarks, todos, organized through #hashtags. Bookmarks are stored in full-text. Android and iOS app available.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1736-thinkery.jpg",
+    "tags": [
+        "bookmarks",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/thinkery\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "thinkery",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1736-thinkery.jpg",
+            "humanURL": "https:\/\/thinkery.me\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/thinkery-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.findyourflo.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/flo-thinkery"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/thinkery"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/thinkery"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/thinkeryme"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/thinkery.me\/"
+        }
+    ]
+}
